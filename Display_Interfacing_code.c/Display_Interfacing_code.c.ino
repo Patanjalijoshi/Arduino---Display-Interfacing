@@ -16,77 +16,9 @@ void setup() {
     lcd.clear();
     lcd.print("Hello LCD");
    
-}  // setup()
+}  
 
 
 void loop() {
-//  if (show == 0) {
-//    lcd.setBacklight(255);
-//    lcd.home();
-//    lcd.clear();
-//    lcd.print("Hello LCD");
-//    delay(1000);
-//
-//    lcd.setBacklight(0);
-//    delay(400);
-//    lcd.setBacklight(255);
-//
-//  } else if (show == 1) {
-//    lcd.clear();
-//    lcd.print("Cursor On");
-//    lcd.cursor();
-//
-//  } else if (show == 2) {
-//    lcd.clear();
-//    lcd.print("Cursor Blink");
-//    lcd.blink();
-//
-//  } else if (show == 3) {
-//    lcd.clear();
-//    lcd.print("Cursor OFF");
-//    lcd.noBlink();
-//    lcd.noCursor();
-//
-//  } else if (show == 4) {
-//    lcd.clear();
-//    lcd.print("Display Off");
-//    lcd.noDisplay();
-//
-//  } else if (show == 5) {
-//    lcd.clear();
-//    lcd.print("Display On");
-//    lcd.display();
-//
-//  } else if (show == 7) {
-//    lcd.clear();
-//    lcd.setCursor(0, 0);
-//    lcd.print("*** first line.");
-//    lcd.setCursor(0, 1);
-//    lcd.print("*** second line.");
-//
-//  } else if (show == 8) {
-//    lcd.scrollDisplayLeft();
-//  } else if (show == 9) {
-//    lcd.scrollDisplayLeft();
-//  } else if (show == 10) {
-//    lcd.scrollDisplayLeft();
-//  } else if (show == 11) {
-//    lcd.scrollDisplayRight();
-//
-//  } else if (show == 12) {
-//    lcd.clear();
-//    lcd.print("write-");
-//
-//  } else if (show == 13) {
-//    lcd.clear();
-//    lcd.print("custom 1:<\01>");
-//    lcd.setCursor(0, 1);
-//    lcd.print("custom 2:<\02>");
-//
-//  } else {
-//    lcd.print(show - 13);
-//  }  // if
-//
-//  delay(1400);
-//  show = (show + 1) % 16;
-}  // loop()
+
+}  
