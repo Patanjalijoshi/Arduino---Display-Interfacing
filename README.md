@@ -20,4 +20,4 @@ In this project a display is interfaced with the Arduino mega 2560 with the help
 ### Code details:
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
 
-### Video:
+### Picture of operation:
