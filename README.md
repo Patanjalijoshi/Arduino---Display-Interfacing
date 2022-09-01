@@ -1,7 +1,4 @@
 # Arduino---display-interfacing
-In this project a 16*2 display is going to bhe interfaced with the Arduino Mega
-
-## Display-interfacing
 In this project a display is interfaced with the Arduino mega 2560 with the help of a I2C module
 
 
